@@ -1,6 +1,6 @@
 {
   "name": "bmartin1134-useraccounts-react",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Meteor's accounts view layer for react, forked from royGil/accounts-react",
   "main": "index.js",
   "scripts": {

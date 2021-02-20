@@ -1,7 +1,7 @@
 Package.describe({
   name: 'bmartin1134:accounts-react',
   summary: 'Simple and intuative accounts view layer with react',
-  version: '1.2.6',
+  version: '1.2.8',
   documentation: 'README.md',
   git: 'https://github.com/royGil/accounts-react'
 })
